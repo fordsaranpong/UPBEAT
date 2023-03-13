@@ -11,6 +11,7 @@ public class Territory {
     private int[][] owner;
     public Territory(int m, int n) {
         this.m = m;
+
         this.n = n;
         regions = new ArrayList<ArrayList<Integer>>(m);
         for (int i = 0; i < m; i++) {
