@@ -1,0 +1,8 @@
+t = t + 1
+m = 0
+done
+relocate
+move down
+invest 1000
+collect 1000
+shoot down 1000
